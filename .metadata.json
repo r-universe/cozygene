@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BisqueRNA",
+    "oncran": true
+  },
+  {
+    "package": "TCA",
+    "oncran": true
+  }
+]
