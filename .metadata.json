@@ -1,10 +1,10 @@
 [
   {
-    "package": "TCA",
+    "package": "BisqueRNA",
     "oncran": true
   },
   {
-    "package": "BisqueRNA",
+    "package": "TCA",
     "oncran": true
   }
 ]
