@@ -8,3 +8,6 @@
 [submodule "TCA"]
 	path = TCA
 	url = https://github.com/cozygene/tca
+[submodule "Unico"]
+	path = Unico
+	url = https://github.com/cozygene/unico
